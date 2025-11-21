@@ -74,7 +74,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-  labels[0] : {"texts" : ["중국당면은 맛있어"], "images" : [https://www.google.com/imgres?q=%EC%A4%91%EA%B5%AD%EB%83%89%EB%A9%B4&imgurl=https%3A%2F%2Fwww.kfoodtimes.com%2Fnews%2Fphoto%2F202106%2F16159_27527_3716.png&imgrefurl=https%3A%2F%2Fwww.kfoodtimes.com%2Fnews%2FarticleView.html%3Fidxno%3D16159&docid=_n2GOOMPNo2sxM&tbnid=qoZFfV4jYQrR0M&vet=12ahUKEwj8zLiVwIKRAxXor1YBHXEHHPAQM3oECB0QAA..i&w=600&h=414&hcb=2&ved=2ahUKEwj8zLiVwIKRAxXor1YBHXEHHPAQM3oECB0QAA]
+  labels[0]:{"texts":["중국당면은 맛있어"],"images":[https://www.google.com/imgres?q=%EC%A4%91%EA%B5%AD%EB%83%89%EB%A9%B4&imgurl=https%3A%2F%2Fwww.kfoodtimes.com%2Fnews%2Fphoto%2F202106%2F16159_27527_3716.png&imgrefurl=https%3A%2F%2Fwww.kfoodtimes.com%2Fnews%2FarticleView.html%3Fidxno%3D16159&docid=_n2GOOMPNo2sxM&tbnid=qoZFfV4jYQrR0M&vet=12ahUKEwj8zLiVwIKRAxXor1YBHXEHHPAQM3oECB0QAA..i&w=600&h=414&hcb=2&ved=2ahUKEwj8zLiVwIKRAxXor1YBHXEHHPAQM3oECB0QAA]}
 }
 
 # ======================
